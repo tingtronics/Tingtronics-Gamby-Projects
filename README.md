@@ -21,6 +21,13 @@ To install, copy the project folders (in the root of this repository) into a sub
 
     ~/Arduino/Tingtronics-Gamby-Projects/
 
+Contents
+--------
+ - TextModeSize - a simple example to show text mode screen extents
+ - KeyScroll - introducing OkeyDoke the smart key driver and text scrolling
+ - KeyMenu - adding line selection with scrolling
+ - RingtonePlayer - adding RTTTL parser and note player
+
 License
 ----------
 This software is distributed under BSD License.
