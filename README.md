@@ -23,13 +23,15 @@ To install, copy the project folders (in the root of this repository) into a sub
 
 Contents
 --------
+Projects listed in the order of complexity. Each project is independent and contain all necessary sources.
+
  - TextModeSize - a simple example to show text mode screen extents
  - KeyScroll - introducing OkeyDoke the smart key driver and text scrolling
  - KeyMenu - adding line selection with scrolling
  - RingtonePlayer - adding RTTTL parser and note player
 
 License
-----------
+-------
 This software is distributed under BSD License.
 
 Copyright (C) 2012, Tingtronics. All rights reserved.
