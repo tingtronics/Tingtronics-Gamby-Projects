@@ -15,9 +15,16 @@ Gamby library must be installed in Arduino *libraries* folder separately.
 
 Installing
 ----------
-Each project folder is an Arduino "sketch".
+Each project folder is an Arduino sketch.
 
-To install copy the project folders (root of this repository) into a subfolder of your Arduino user folder, e.g.
+To install, copy the project folders (in the root of this repository) into a subfolder of your Arduino user folder, e.g.
 
     ~/Arduino/Tingtronics-Gamby-Projects/
-  
+
+License
+----------
+This software is distributed under BSD License.
+
+Copyright (C) 2012, Tingtronics. All rights reserved.
+
+For details of the license agreement see *license.txt*.
