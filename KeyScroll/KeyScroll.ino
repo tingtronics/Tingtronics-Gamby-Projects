@@ -1,7 +1,9 @@
 /*
   KeyScroll - dynamically accelerated scrolling lines of text 
  
-  (CC BY-SA) 2012-09 Oleg Kobchenko
+  (C) 2012-09 Oleg Kobchenko
+  http://github.com/tingtronics
+  BSD license, see license.txt
  */
 
 #include <Gamby.h>

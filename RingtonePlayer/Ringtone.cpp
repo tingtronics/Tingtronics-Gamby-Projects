@@ -11,9 +11,10 @@
 
   You can get more RTTTL (RingTone Text Transfer Language) songs from
   http://code.google.com/p/rogue-code/wiki/ToneLibraryDocumentation
-
  
-  2012-09 Oleg Kobchenko
+  (C) 2012-09 Oleg Kobchenko
+  http://github.com/tingtronics
+  BSD license, see license.txt
  */
 
 #include "Ringtone.h"

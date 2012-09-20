@@ -1,7 +1,9 @@
 /*
   MemStream.h - memory stream for Arduino
  
- 2012-09 Oleg Kobchenko
+  (C) 2012-09 Oleg Kobchenko
+  http://github.com/tingtronics
+  BSD license, see license.txt
  */
 
 #ifndef MemStream_h

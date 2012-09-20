@@ -5,8 +5,10 @@
   simultanous repeatable and non-repeatable keys with configurable 
   repeat delay and dynamic acceleration.
  
-  (CC BY-SA) 2012-09 Oleg Kobchenko
- */
+  (C) 2012-09 Oleg Kobchenko
+  http://github.com/tingtronics
+  BSD license, see license.txt
+*/
 
 #ifndef OkeyDoke_h
 #define OkeyDoke_h

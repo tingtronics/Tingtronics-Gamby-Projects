@@ -1,7 +1,9 @@
 /*
-  Ringtone Player - ringtone player
+  Ringtone Player - ringtone player for Gamby
  
- 2012-09 Oleg Kobchenko Adapted for Gamby.
+  (C) 2012-09 Oleg Kobchenko
+  http://github.com/tingtronics
+  BSD license, see license.txt
  */
 
 #include <Arduino.h>
