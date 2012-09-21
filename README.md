@@ -3,7 +3,7 @@ Tingtronics-Gamby-Projects
 
 Projects for Gamby retro-gaming LCD shield
 
-What you Need
+Prerequisites
 -------------
 Tingtronics Gamby Projects work with the Gamby shield for Arduino platfom. For details about Gamby see
 
